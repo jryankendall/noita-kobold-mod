@@ -1,0 +1,11 @@
+<OmmelMod>
+	<XMLMerge>
+	<SourceFile>ommeldata/player_jetpack.xml</SourceFile>
+	<TargetFile>data/entities/player.xml</TargetFile>
+	</XMLMerge>
+	<XMLMerge>
+	<SourceFile>ommeldata/player_cape.xml</SourceFile>
+	<TargetFile>data/entities/player.xml</TargetFile>
+	</XMLMerge>
+
+</OmmelMod>

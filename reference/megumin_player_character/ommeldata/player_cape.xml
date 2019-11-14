@@ -1,0 +1,18 @@
+<Entity 
+  name="DEBUG_NAME:player"
+  tags="mortal,human,hittable,peasant,prey,player_unit,teleportable" >
+  
+   <!-- cape -->
+
+  <HotspotComponent
+      _tags="cape_root"
+      sprite_hotspot_name="cape" >
+  </HotspotComponent>
+
+<Entity name="cape">  
+      <Base file="data/entities/verlet_chains/cape/megumin_cape.xml">
+      </Base>  
+  </Entity>
+
+</Entity>
+
